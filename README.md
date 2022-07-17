@@ -21,3 +21,6 @@ Maintenant à la racine du projet, faites la commande suivantes :
 Aller sur localhost:3000/login  
 > Renseigner vos login & mot de passe  
 > Vous êtes sur votre compte et pouvez accéder à toutes vos playlists
+
+![login page](./spotify-clone/screenshot/login.png)
+![playlist page](./spotify-clone/screenshot/playlist.png)
