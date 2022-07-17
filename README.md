@@ -16,4 +16,8 @@
 ## Lancer le projet :  
 Maintenant à la racine du projet, faites la commande suivantes :   
 `npm install`  
-`npm run dev`
+`npm run dev`  
+
+Aller sur localhost:3000/login  
+> Renseigner vos login & mot de passe  
+> Vous êtes sur votre compte et pouvez accéder à toutes vos playlists
