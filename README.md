@@ -1,4 +1,4 @@
-# **Spotify CLone** (Next.js)
+# **Spotify Clone** (Next.js)
 
 ## Pré-requis : 
 
@@ -13,6 +13,7 @@
   - NEXT_PUBLIC_CLIENT_ID={CLIENT_ID}
   - JWT_SECRET=
 
+## Lancer le projet :  
 Maintenant à la racine du projet, faites la commande suivantes :   
 `npm install`  
 `npm run dev`
