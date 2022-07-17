@@ -1,4 +1,4 @@
-# **Spotify Clone** (Next.js)
+# **Spotify Clone** (Next.js, SpotifyAPI, Tailwind, NextAuth, Recoil)
 
 ## Pré-requis : 
 
